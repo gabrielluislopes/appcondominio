@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "nome": "Churrasqueira",
+        "img": "https://pics.freeicons.io/uploads/icons/png/4541048381595759999-512.png"
+    },
+    {
+        "id": 2,
+        "nome": "Salão de Festas",
+        "img": "https://pics.freeicons.io/uploads/icons/png/3052566301579770858-512.png"
+    },
+    {
+        "id": 3,
+        "nome": "Quadra de Futsal",
+        "img": "https://pics.freeicons.io/uploads/icons/png/20576356771548936682-512.png"
+    },
+    {
+        "id": 4,
+        "nome": "Quadra de Vôlei",
+        "img": "https://pics.freeicons.io/uploads/icons/png/20710898251536052227-512.png"
+    },
+    {
+        "id": 5,
+        "nome": "Piscina",
+        "img": "https://pics.freeicons.io/uploads/icons/png/2883947751580120690-512.png"
+    },
+    {
+        "id": 6,
+        "nome": "Quadra de Tênis",
+        "img": "https://pics.freeicons.io/uploads/icons/png/12671438011536052226-512.png"
+    }
+]
